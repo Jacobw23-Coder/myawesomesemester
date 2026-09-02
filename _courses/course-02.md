@@ -1,12 +1,12 @@
 ---
 course_number: 2
-course_code: "COMM XXXX"
-course_title: "Course Title 2"
-meeting_time: "TR 9:30–10:45 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Associate Professor"
-instructor_department: "Department Name"
+course_code: "CMST 4714"
+course_title: "Communication Senior Seminar"
+meeting_time: "mw 2:30–3:45 PM"
+location: "MCB 233"
+instructor_name: "Carlos Evia"
+instructor_title: "Professor"
+instructor_department: "Communications Department"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
