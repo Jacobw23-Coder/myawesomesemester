@@ -1,12 +1,12 @@
 ---
 course_number: 1
-course_code: "COMM XXXX"
-course_title: "Course Title 1"
+course_code: "CMST 3214"
+course_title: "Professional Communication"
 meeting_time: "MWF 10:10–11:00 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+location: "SHANK Room 160"
+instructor_name: "Angela Widgeon"
+instructor_title: "Professor"
+instructor_department: "Communications Department"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
