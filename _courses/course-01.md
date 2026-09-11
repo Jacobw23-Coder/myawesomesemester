@@ -21,20 +21,8 @@ Professor Angela Widgeon began her personal academic journey in Florida, Receivi
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
-
-### Publications
-
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+Professor Angela Widgeon's main areas of research include effective mentorship strategies, collaborative education, leadership, and professional communication. Prior to Virginia Tech, her earlier research focused on how technology can be used to evaluate a team's effectiveness and performance in the workplace.
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor Widgeon is involved in a few campus service and outreach programs in addition to being the chair for numerous doctoral research publications. She currently sits on the Virginia Tech College of Liberal Arts and Human Sciences Faculty Council for the 2026–2027 academic year.
