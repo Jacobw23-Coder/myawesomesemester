@@ -9,21 +9,14 @@ instructor_title: "Professor"
 instructor_department: "School of Communication"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+Interpersonal communication is a course that aims to give students a deeper understanding of their interpersonal interactions with others on a person-to-person level. It explores the theories, ethics, and processes of using communication skills to most effectively convey and interpret meaning. I hope to learn a lot about both my own communication style as well as the communication styles of others throughout the semester. 
 
-## About Professor Name
+## About Professor Zach Sowder
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Professor Zach Sowder as an advanced instructor in Virginia Tech School of Communication. He earned his bachelor's degree in communication from Concord University and His Master's in communication from Virginia Tech. Currently, he teaches courses such as this one, as well as public speaking and teamwork. 
 
 ### Research interests
 
