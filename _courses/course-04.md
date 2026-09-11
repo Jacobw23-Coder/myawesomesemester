@@ -22,20 +22,15 @@ Bill Roth is an accomplished professor of practice within Virginia Tech’s scho
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Professor Bill Roth’s professional interests focus primarily on sports broadcast media, journalism, and sports analytics. His work combines extensive real-life experience as a professional sportscaster for ESPN and Virginia Tech, with his passion of preparing students for careers in the world of sports communication. 
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+- The Roth Report — A regular sports column for HokieSports.com
+- ESPN college football and basketball television broadcasts
+- CBS Sports Network college basketball broadcasts
+- Westwood One national college football and NCAA basketball broadcasts
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor Roth has been impactful at Virginia Tech through his extensive service and outreach. Namely, he helped develop and launch the Sports Media and Analytics program in 2016. Its development was ahead of its time and has since inspired other universities to adopt similar programs. He also closely guides students through hands-on sports media projects, giving them real-world experiences before entering into the workforce. 
