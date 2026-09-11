@@ -16,14 +16,11 @@ research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+This course focuses on the theories, ethical implications and real-life applications of professional communication. It aims to sharpen a wide range of professional skills that a senior in college who is looking for a career would want to possess. This includes verbal and nonverbal communication strategies, building a professional brand through platforms like LinkedIn, delivering high-level presentations, or even understanding commonplace corporate lingo. 
 
-## About Professor Name
+## About Professor Angela Widgeon
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Professor Angela Widgeon began her personal academic journey in Florida, Receiving her Master of Arts in Communication and Media Studies from the University of West Florida. Following this, she received her PhD in Mass Communication/Media Studies from The University of Alabama Graduate School. After completing her college career, Widgeon began her first role as an educator at Radford University, taking the title of Assistant Professor of Communication Studies from 2003-2008. She then became an Associate Professor of Communication at Liberty University, where she spent the next six years of her career. In august of 2023, Widgeon began her role as Instructor of Research methods in the School of Communication at Virginia Tech and has been there ever since. 
 
 ### Research interests
 
