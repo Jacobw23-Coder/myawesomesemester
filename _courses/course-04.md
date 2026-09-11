@@ -1,12 +1,12 @@
 ---
 course_number: 4
-course_code: "COMM XXXX"
-course_title: "Course Title 4"
-meeting_time: "TR 2:00–3:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_code: "JMC 2074"
+course_title: "Introduction to Sports Media"
+meeting_time: "MW 5:30–6:45 PM"
+location: "SURGE 108B"
+instructor_name: "Bill Roth"
+instructor_title: "Professor"
+instructor_department: "School of Communication"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
