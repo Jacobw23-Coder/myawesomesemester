@@ -21,7 +21,7 @@ Brian Collins is a seasoned Professor of Practice at Virginia Tech. He currently
 
 ### Research interests
 
-Professor Collins' main areas of research interest include business to business sales strategies. In addition, he is passionate about selling to executives and the negotion of large-sum business deals.
+Professor Collins' main areas of professional interest include business to business sales strategies, sales force management, banking and mergers and acquisitions. In addition, he is passionate about selling to executives and the negotiation of large-sum business deals.
 
 ### Publications
 
