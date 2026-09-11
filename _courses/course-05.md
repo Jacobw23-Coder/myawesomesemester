@@ -20,20 +20,14 @@ Professor Zach Sowder as an advanced instructor in Virginia Tech School of Commu
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Professor Zach Sowder's areas of research interest include effective teaching practices, practical interpersonal communication strategies, and encouragement of proficient student writing. He is passionate about his field, and aims to share his passion through meaningful interactions with students. 
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+- “Meaningful Practices to Encourage the Student Writing Process” (2023), co-authored with Laura Purcell, Kacy McAllister, Claire Boor, Dorothy Conner, and Dale Jenkins.
+- “Can You Hear Me Now?: Strategies for Encouraging Communication in the Virtual Classroom” (2018), co-authored with Brandi Quesenberry, Dorothy Conner, and Claire Boor.
+- “Bringing Classroom Discussions Back to Life: A Flipped Classroom Approach” (2023), co-authored with Brandi Quesenberry, Kacy McAllister, Laura Purcell, Dorothy Conner, Cemone Paul, Katie Thomas, and Claire Boor.
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor Sowder, in tandem with his educational focus, is very involved with service and outreach at Virginia Tech. His presentations and collaborative projects with other faulty demonstrate his ability to take education outside of the classroom in meaningful ways.  
