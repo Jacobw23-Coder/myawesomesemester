@@ -18,7 +18,7 @@ This sports media course introduces students to the different roles within Sport
 
 ## About Professor Bill Roth
 
-Bill Roth is a seasoned professor of practice within Virginia Tech’s school of communication. He is also a long time, respected sports broadcaster. After completing his degree at Syracuse University's Newhouse School of Public Communications, Roth spent 27 years as the voice of the Hokies, calling games for both the Virginia Tech football and basketball teams. Currently, he teaches Sports media courses that have helped launch Virginia Tech's Sports media and analytics program. 
+Bill Roth is an accomplished professor of practice within Virginia Tech’s school of communication. He is also a long time, respected sports broadcaster. After completing his degree at Syracuse University's Newhouse School of Public Communications, Roth spent 27 years as the voice of the Hokies, calling games for both the Virginia Tech football and basketball teams. Currently, he teaches Sports media courses that have helped launch Virginia Tech's Sports media and analytics program. 
 
 ### Research interests
 
