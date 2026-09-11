@@ -21,20 +21,16 @@ Carlos Evia is a seasoned professor at Virginia Tech, working primarily in techn
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Professor Carlos Evia’s research explores the relationship between emerging technologies and professional communication, particularly how this relationship can improve the ways information is created, shared, and understood. His work highlights areas such as technical communication, artificial intelligence, professional communication, and content strategy. 
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+- Technical Communication and the Discipline of Content: Considerations for Research, Training, and Career Readiness (2025), co-authored with Rebekka Andersen
+- Content Operations from Start to Scale: Perspectives from Industry Experts (2024), edited by Carlos Evia
+- Creating Intelligent Content with Lightweight DITA (2018)
+- “Beyond Compliance” (2012), co-authored with Ashley Patriarca, Journal of Business and Technical Communication
+- “Teaching Structured Authoring and DITA Through Rhetorical and Computational Thinking” (2015), IEEE Transactions on Professional Communication
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor has been involved in numerous service and outreach programs during his time at Virginia Tech. 
