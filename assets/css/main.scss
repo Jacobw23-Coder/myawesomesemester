@@ -8,17 +8,17 @@
 // ------------------------------------------------------------------
 
 :root {
-  --color-bg: #fff4df;
-  --color-surface: #fffdf8;
-  --color-ink: #241b2f;
-  --color-ink-soft: #695f72;
-  --color-line: #f2c58b;
-  --color-accent: #861f41;
-  --color-white: #ffffff;
-  --font-body: "Trebuchet MS", "Century Gothic", "Gill Sans", Arial, Helvetica, sans-serif;
-  --font-display: Rockwell, "Courier New", Georgia, "Palatino Linotype", serif;
+  --color-bg: #6f3b4f;
+  --color-surface: #815064;
+  --color-ink: #fff6e8;
+  --color-ink-soft: #f0d8c8;
+  --color-line: #c96f3d;
+  --color-accent: #d87942;
+  --color-white: #fffaf2;
+  --font-body: "Trebuchet MS", "Gill Sans", "Segoe UI", Arial, Helvetica, sans-serif;
+  --font-display: Rockwell, "Arial Black", Impact, "Courier New", Georgia, serif;
   --radius: 28px;
-  --shadow: 0 20px 50px rgba(134, 31, 65, 0.16), 8px 8px 0 rgba(246, 166, 35, 0.24);
+  --shadow: 10px 10px 0 #b85f39, 0 20px 48px rgba(45, 18, 31, 0.28);
 }
 
 * { box-sizing: border-box; }
