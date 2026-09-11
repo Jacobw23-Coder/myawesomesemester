@@ -23,16 +23,6 @@ Brian Collins is a seasoned Professor of Practice at Virginia Tech. He currently
 
 Professor Collins' main areas of professional interest include business to business sales strategies, sales force management, banking and mergers and acquisitions. In addition, he is passionate about selling to executives and the negotiation of large-sum business deals.
 
-### Publications
-
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
-
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor Collins has an impactful presence on the Virginia Tech campus because of his service and outreach. He serves as the director of the sales center, faculty advisor to Pi Sigma Epsilon, chair of the Sales Industry Board, and the Director of the Sales Competition Team. Additionally, he has also mentored and coached MBA students. 
