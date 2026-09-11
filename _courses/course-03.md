@@ -9,27 +9,19 @@ instructor_title: "Professor"
 instructor_department: "Undergraduate Success and Industry Partnerships"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
+
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+This course, Sales Force Management, focuses on the study of effective strategies that future managers, sales leaders, and salespeople can use to effectively manage themselves and a team. Highlighting the importance of dynamic leaderships strategies, salespeople pose a difficult challenge for managers, as the strong personalities and varying communication styles can create a hard-to-navigate workforce. However, Professor of practice, Brian Collins has real-world experience to remedy some of these challenges. Throughout the course, case studies, presentations and lectures created by Collins will add valuable skills to draw from in a potential future management role.
 
-## About Professor Name
+## About Professor Brian Collins 
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Brian Collins is a seasoned Professor of Practice at Virginia Tech. He currently wears many hats in the realm of sales. He is the Sales Center Director, the Sales Competition Team Director and the faculty advisor to the PSE sales fraternity. Collins also serves as the faculty chair of the Sales Industry Board at Virginia Tech. Before this, Collins spent 20+ years in the financial services industry and had successful careers throughout. His education background includes receiving his B.S. in Finance/Minor in English and MBA in Finance from Virginia Tech. He received the 2016 Certificate of Teaching Excellence based upon his current work.
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Professor Collins' main areas of research interest include business to business sales strategies. In addition, he is passionate about selling to executives and the negotion of large-sum business deals.
 
 ### Publications
 
