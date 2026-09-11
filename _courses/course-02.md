@@ -2,7 +2,7 @@
 course_number: 2
 course_code: "CMST 4714"
 course_title: "Communication Senior Seminar"
-meeting_time: "mw 2:30–3:45 PM"
+meeting_time: "MW 2:30–3:45 PM"
 location: "MCB 233"
 instructor_name: "Carlos Evia"
 instructor_title: "Professor"
