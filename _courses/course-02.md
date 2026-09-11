@@ -33,4 +33,4 @@ Professor Carlos Evia’s research explores the relationship between emerging te
 
 ### Service and outreach
 
-Professor has been involved in numerous service and outreach programs during his time at Virginia Tech. 
+Professor Evia has been involved in numerous service and outreach programs during his time at Virginia Tech. He has served as a fellow for the El Centro Hispanic and Latinx Cultural and Community Center. In addition, he has served on numerous Virginia Tech technology committees and participates in campus organizations that support diversity and foster professional development.
