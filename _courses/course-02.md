@@ -9,21 +9,15 @@ instructor_title: "Professor"
 instructor_department: "Communications Department"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
+
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+This senior seminar focuses on how the intervention of Artificial intelligence is transforming the 21st century workplace and professional communication as a whole. Through the lens of about 100 years of communication theory and research, the course examines the ways in which communication is uniquely advantaged in understanding and mastering the increasingly integrated generative AI platforms in the workplace. Students will propose original ideas, research, and work, further emphasizing the value of AI as a tool to be used in tandem with human excellence.
 
-## About Professor Name
+## About Professor Carlos Evia 
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Carlos Evia is a seasoned professor at Virginia Tech, working primarily in technical and professional communication. Earning his master’s degree in computer systems from Universidad La Salle in Mexico City and a Ph.D. in technical communication and rhetoric from Texas Tech University, Evia is also deeply engrained in the world of computers in tandem with his communicative abilities. He possess the unique skill of being able to communicate, as he would call it, "geeky computer stuff," to a wider audience, and have a blast doing so. At Virginia Tech, where he has been since 2004, he teaches technical communication and content management while researching how technology and artificial intelligence are changing workplace communication.  
 
 ### Research interests
 
