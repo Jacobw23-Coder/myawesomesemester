@@ -9,21 +9,16 @@ instructor_title: "Professor"
 instructor_department: "School of Communication"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
+
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+This sports media course introduces students to the different roles within Sports as an industry. The course material covers topics such as the evolution of sports media, media ethics, social media, and even economic topics in the sports industry. Through this, professor Roth aims to provide his students with wide-lensed exposure to the many careers and opportunities sports can provide, on and off the field. I am taking this course because I have never had exposure with the industry and have always been curious. 
 
-## About Professor Name
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+## About Professor Bill Roth
+
+Bill Roth is a seasoned professor of practice within Virginia Tech’s school of communication. He is also a long time, respected sports broadcaster. After completing his degree at Syracuse University's Newhouse School of Public Communications, Roth spent 27 years as the voice of the Hokies, calling games for both the Virginia Tech football and basketball teams. Currently, he teaches Sports media courses that have helped launch Virginia Tech's Sports media and analytics program. 
 
 ### Research interests
 
