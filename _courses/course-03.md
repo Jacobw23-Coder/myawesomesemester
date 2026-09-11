@@ -1,12 +1,12 @@
 ---
 course_number: 3
-course_code: "COMM XXXX"
-course_title: "Course Title 3"
-meeting_time: "MWF 1:25–2:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
+course_code: "MKTG 4454"
+course_title: "Sales Force Management"
+meeting_time: "MW 4:00–5:15 PM"
+location: "PAM 1045"
+instructor_name: "Brian Collins"
 instructor_title: "Professor"
-instructor_department: "Department Name"
+instructor_department: "Undergraduate Success and Industry Partnerships"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
